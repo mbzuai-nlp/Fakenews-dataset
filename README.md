@@ -8,7 +8,7 @@ The dataset was created based on politifact and gossipcop dataset from [FakeNews
 ![SMP: Prompting LLMs to generate fake news articles](Figures/structure.png)
 
 ## Dataset
-We release GossipCop++ and PolitiFact++ dataset on github [PolitiFact++](https://github.com/JinyanSu1/Fakenews-dataset)|[Gossipcop++](https://github.com/JinyanSu1/Fakenews-dataset) and on HuggingFace [PolitiFact++](https://huggingface.co/datasets/Jinyan1/PolitiFact) |[GossipCop++](https://huggingface.co/datasets/Jinyan1/GossipCop). 
+We release GossipCop++ and PolitiFact++ dataset on github [PolitiFact++](https://github.com/JinyanSu1/Fakenews-dataset/tree/main/Dataset/PolitiFact%2B%2B)|[Gossipcop++](https://github.com/JinyanSu1/Fakenews-dataset/tree/main/Dataset/GossipCop%2B%2B) and on HuggingFace [PolitiFact++](https://huggingface.co/datasets/Jinyan1/PolitiFact) |[GossipCop++](https://huggingface.co/datasets/Jinyan1/GossipCop). 
 
 
 ## Dataset Statistics
